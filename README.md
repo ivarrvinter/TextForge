@@ -8,7 +8,7 @@ TextForge is a powerful library designed to facilitate text cleaning and preproc
 We are dedicated to enhancing TextForge and are actively working on the following:
 - **Extended Cleaning Options**: We are expanding the cleaning capabilities of TextForge to cover additional text sources beyond tweets, enabling users to process text from various domains and formats.
 - **Customization and Configuration**: We are developing features that allow users to customize the cleaning process according to their specific requirements, ensuring flexibility and adaptability to different use cases.
-- **Performance Optimization*: We are continuously optimizing the library's performance to ensure efficient and scalable text cleaning operations.
+- **Performance Optimization**: We are continuously optimizing the library's performance to ensure efficient and scalable text cleaning operations.
 
 ## Contributors
 TextForge is made possible by the contributions of the following individual(s):
